@@ -11,7 +11,7 @@
         "laravel/reverb": "^1.0",
         "laravel/tinker": "^2.9",
         "pusher/pusher-php-server": "^7.2",
-        "google-gemini": "^1.0",
+        "google-gemini-php/client": "^2.0",
         "symfony/mailer": "^7.0",
         "symfony/yaml": "^7.0",
         "ext-mbstring": "*",

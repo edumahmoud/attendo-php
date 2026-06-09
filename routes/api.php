@@ -6,6 +6,14 @@ use App\Http\Controllers\Api\UserController;
 use App\Http\Controllers\Api\SubjectController;
 use App\Http\Controllers\Api\QuizController;
 use App\Http\Controllers\Api\SummaryController;
+use App\Http\Controllers\Api\GeminiServiceController;
+use App\Http\Controllers\Api\AttendanceController;
+use App\Http\Controllers\Api\AssignmentController;
+use App\Http\Controllers\Api\FileController;
+use App\Http\Controllers\Api\ChatController;
+use App\Http\Controllers\Api\NotificationController;
+use App\Http\Controllers\Api\ReportController;
+use App\Http\Controllers\Api\AdminController;
 
 /*
 |--------------------------------------------------------------------------
