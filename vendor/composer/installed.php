@@ -3,7 +3,7 @@
         'name' => 'attendo/laravel-attendo',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '1c22c3347af168299b13ef82b1ab876867669178',
+        'reference' => '9ed5f2b800dbbc1c26cc50eef76e4f2c89d16031',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'attendo/laravel-attendo' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '1c22c3347af168299b13ef82b1ab876867669178',
+            'reference' => '9ed5f2b800dbbc1c26cc50eef76e4f2c89d16031',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
